@@ -1,0 +1,1 @@
+Here is the link of our website live on netlify:  https://share-note.netlify.app/
